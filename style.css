@@ -1,0 +1,32 @@
+.display-2 {
+    text-align: center;
+}
+.container {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+/* .alert {
+    border: 1px solid black;
+    margin: 20px;
+}
+span {
+    display: block;
+    font-weight: bold;
+    background-color: rgb(255, 230, 0);
+    width: 220px;
+    height: 30px;
+} */
+.container>h1 {
+    background-color: rgb(58, 71, 255);
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    color: aliceblue;
+}
+.progress-bar {
+    color: black;
+    font-weight: bolder;
+}
+.bg-secondary, .bg-danger, .bg-success {
+    color: aliceblue;
+}
